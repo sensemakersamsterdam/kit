@@ -38,4 +38,4 @@ Compact development board for the ESP8266ex SoC (System on a Chip).
 >All IO pins are running on 3.3V.
 
 ##Example code
-file: Wemos D1 Mini.ino
+file: Blink.ino

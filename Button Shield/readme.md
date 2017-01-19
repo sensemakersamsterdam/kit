@@ -10,3 +10,6 @@ Pushbutton connected with pin D3
     3V3		3.3V
 
 >All IO pins are running on 3.3V.
+
+##Example code
+file: button_shield.ino

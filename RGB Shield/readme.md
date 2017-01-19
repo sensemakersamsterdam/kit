@@ -20,7 +20,7 @@ WS2812B RGB Shield. A shield with a remote controllable RGB Led.
 >The WS2812B requires 5v.
 
 ##Example code
-file: RGB Shield.ino
+file: rgb_shield.ino
 
 ##Required libraries
 * Adafruit_NeoPixel_Library [https://github.com/adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel). 

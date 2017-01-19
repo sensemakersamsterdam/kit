@@ -17,3 +17,6 @@ The DHT Shield is a shield for the D1 mini with a temperature sensor and a humid
     3V3		3.3V
 
 >All IO pins are running on 3.3V.
+
+##Example code
+file: dht_shield.ino

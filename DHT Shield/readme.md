@@ -12,8 +12,8 @@ The DHT Shield is a shield for the D1 mini with a temperature sensor and a humid
 ##Pins
     Pin		Function
     D4		Data
-    G		Grond
+    G		Ground
     5V		5V
     3V3		3.3V
 
->All IO pins use 3.3V.
+>All IO pins are running on 3.3V.

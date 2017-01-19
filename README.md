@@ -1,7 +1,7 @@
 # Sensemaker Starter kit
 Documentation and source for the Sensemaker Kit
 
-The basic kit consists of the following component:
+The basic kit consists of the following components:
 - Wemos D1 mini
 - Button shield
 - DHT shield
@@ -9,7 +9,7 @@ The basic kit consists of the following component:
 - Breadboard with 400 holes
 - Set of 10 jumper cables
 
-In the underlying directories, the Wemos D1 mini board itself and the shields will be described. With every board there is a basic script example that you can use to make your first steps with the board and shields.
+In the underlying directories, the Wemos D1 mini board itself and the shields will be described. With every board there is a basic script example that you can use to make your first steps with the board and shields. Later on, we will add other and more advanced scripts.
 
 ##Next
 * The scripts come from the Wemos github repository, which you can find over here: [https://github.com/wemos/D1_mini_Examples](https://github.com/wemos/D1_mini_Examples). We will maintain our own repository with examples over here.

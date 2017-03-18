@@ -1,8 +1,8 @@
-#Wemos D1 Mini
-##Description
+# Wemos D1 Mini
+## Description
 Compact development board for the ESP8266ex SoC (System on a Chip).
 
-##Specifications
+## Specifications
     Microcontroller     ESP-8266EX
     Power               3.3V
     Digital I/O Pins    11
@@ -13,10 +13,10 @@ Compact development board for the ESP8266ex SoC (System on a Chip).
     Width               25.6mm
     Weight              10g
 
-##Datasheet
+## Datasheet
 * [http://espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf](http://espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf)
 
-##Pins
+## Pins
     Pin   Function                       ESP-8266 Pin
     TX    TXD                            TXD
     RX    RXD                            RXD
@@ -34,8 +34,8 @@ Compact development board for the ESP8266ex SoC (System on a Chip).
     5V    5V                             N.C.
     3V3   3.3V                           3.3V
     RST   Reset                          RST
->All IO pins support interrupt / PWM / I2C / one-wire, except D0
->All IO pins are running on 3.3V.
+> All IO pins support interrupt / PWM / I2C / one-wire, except D0
+> All IO pins are running on 3.3V.
 
-##Example code
+## Example code
 file: blink.ino

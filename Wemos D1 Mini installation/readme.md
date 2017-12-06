@@ -1,6 +1,6 @@
 # Installation of the Wemos D1 Mini
 ## Download & Install required Serial drivers
-Download one of the drivers for your platform from: [https://www.wemos.cc/downloads](https://www.wemos.cc/downloads)
+Download one of the drivers for your platform from: [https://wiki.wemos.cc/downloads](https://wiki.wemos.cc/downloads)
 
 ### Windows
 Install the driver and restart the computer.

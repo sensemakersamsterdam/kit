@@ -32,4 +32,4 @@ After downloading, install the application.
 When you plug anything onto the Wemos board (and you are not experienced with electronics), you first need to disconnect the Wemos from your computer and/or an attached powersource. After placement of the board, you can reconnect the board to your computer and powersource.
 
 ## Example Code
-Example code for the Arduino IDE and the Wemos board and shield can be found and download from their Github repository. https://github.com/wemos/D1_mini_Examples
+Example code for the Arduino IDE and the Wemos board and shield can be found and downloaded from their Github repository: https://github.com/wemos/D1_mini_Examples

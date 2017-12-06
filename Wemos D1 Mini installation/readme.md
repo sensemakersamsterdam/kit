@@ -29,4 +29,4 @@ After downloading, install the application.
 1. Select the esp8266 box and choose the highest version in the Select version pull down menu.
 1. Click on Install and the requirements for your board will be installed.
 
-When you plug anything into the Wemos (and you are not experienced with electronics), you first need to disconnect the Wemos from your computer and the attached powersource. After placement of the board, you can reconnect the board to your computer and powersource.
+When you plug anything onto the Wemos board (and you are not experienced with electronics), you first need to disconnect the Wemos from your computer and/or an attached powersource. After placement of the board, you can reconnect the board to your computer and powersource.

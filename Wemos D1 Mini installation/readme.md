@@ -33,3 +33,4 @@ When you plug anything onto the Wemos board (and you are not experienced with el
 
 ## Example Code
 Example code for the Arduino IDE and the Wemos board and shield can be found and download from their [https://github.com/wemos/D1_mini_Examples](Github repository).
+

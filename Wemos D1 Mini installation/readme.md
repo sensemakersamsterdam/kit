@@ -6,7 +6,7 @@ Download one of the drivers for your platform from: [https://wiki.wemos.cc/downl
 Install the driver and restart the computer.
 
 ### Mac
-If you use a Mac, you can download the drivers from this location: [https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver). This driver will also work on OS X Yosemite (10.10) and El Capitan (10.11).
+If you have problems with the above drivers on your Mac, you can also download and try the drivers from this location: [https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver). This driver will also work on OS X Yosemite (10.10) and El Capitan (10.11).
 
 Restart your computer after the installation.
 
